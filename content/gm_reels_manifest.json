@@ -1,0 +1,205 @@
+{
+  "_readme": "Pool de reels da GM Hamburgueria, agregado de varias subpastas mensais de 'Videos Tratados/2026' (Jan/Mar/Abr/Jul). Cada entrada: file, folder (nome da subpasta, pra montar o caminho local via rclone), drive_folder_id (pra resolve_drive_url.py conseguir a URL publica pro lado do Instagram), type, used, used_at. select_gm_reel.py escolhe 1 aleatorio nao usado por semana, reseta o pool quando esgota.",
+  "assets": [
+    {
+      "file": "Cozinha a mil.mp4",
+      "folder": "Jul 26",
+      "drive_folder_id": "1Z4339PcI27xugfyLvIo0Fbe_hG2iK9WB",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Edit geral dos burgers.mp4",
+      "folder": "Jul 26",
+      "drive_folder_id": "1Z4339PcI27xugfyLvIo0Fbe_hG2iK9WB",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Gm a ia vai roubar seu emprego.mp4",
+      "folder": "Jul 26",
+      "drive_folder_id": "1Z4339PcI27xugfyLvIo0Fbe_hG2iK9WB",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Gm dono montando o burger.mp4",
+      "folder": "Jul 26",
+      "drive_folder_id": "1Z4339PcI27xugfyLvIo0Fbe_hG2iK9WB",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Gm edit lanche de frango.mp4",
+      "folder": "Jul 26",
+      "drive_folder_id": "1Z4339PcI27xugfyLvIo0Fbe_hG2iK9WB",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Montagem batatas recheadas.mp4",
+      "folder": "Jul 26",
+      "drive_folder_id": "1Z4339PcI27xugfyLvIo0Fbe_hG2iK9WB",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Video narrado dono.mp4",
+      "folder": "Jul 26",
+      "drive_folder_id": "1Z4339PcI27xugfyLvIo0Fbe_hG2iK9WB",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Burger novo de frango edit.mp4",
+      "folder": "Abril 26",
+      "drive_folder_id": "1CnkmyPSs4C_WqYv8sUocq2V9-HehU83B",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Burger novo de frango narrado.mp4",
+      "folder": "Abril 26",
+      "drive_folder_id": "1CnkmyPSs4C_WqYv8sUocq2V9-HehU83B",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Edit batata com catupiry.mp4",
+      "folder": "Abril 26",
+      "drive_folder_id": "1CnkmyPSs4C_WqYv8sUocq2V9-HehU83B",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Edit geral dos lanches.mp4",
+      "folder": "Abril 26",
+      "drive_folder_id": "1CnkmyPSs4C_WqYv8sUocq2V9-HehU83B",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Edit processos.mp4",
+      "folder": "Abril 26",
+      "drive_folder_id": "1CnkmyPSs4C_WqYv8sUocq2V9-HehU83B",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Montagem burger de costela duplo.mp4",
+      "folder": "Abril 26",
+      "drive_folder_id": "1CnkmyPSs4C_WqYv8sUocq2V9-HehU83B",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Apresentando burger novo.mp4",
+      "folder": "Março 26",
+      "drive_folder_id": "142XKXDoBw28aUKFftfh3Dpo2hYDqu8EI",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Edit burger empanado.mp4",
+      "folder": "Março 26",
+      "drive_folder_id": "142XKXDoBw28aUKFftfh3Dpo2hYDqu8EI",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Edit burguer novo.mp4",
+      "folder": "Março 26",
+      "drive_folder_id": "142XKXDoBw28aUKFftfh3Dpo2hYDqu8EI",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Edit producao.mp4",
+      "folder": "Março 26",
+      "drive_folder_id": "142XKXDoBw28aUKFftfh3Dpo2hYDqu8EI",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "GM Burguer Pacote premiado.mp4",
+      "folder": "Março 26",
+      "drive_folder_id": "142XKXDoBw28aUKFftfh3Dpo2hYDqu8EI",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Montagem duplo cheddar Baco.mp4",
+      "folder": "Março 26",
+      "drive_folder_id": "142XKXDoBw28aUKFftfh3Dpo2hYDqu8EI",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Montagem monster narrado.mp4",
+      "folder": "Janeiro 26",
+      "drive_folder_id": "1i1xU-L1ffwrSnEX4we1g-I4yrsfLwxeb",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Montagem monster.mp4",
+      "folder": "Janeiro 26",
+      "drive_folder_id": "1i1xU-L1ffwrSnEX4we1g-I4yrsfLwxeb",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Edit burger costela.mp4",
+      "folder": "Janeiro 26",
+      "drive_folder_id": "1i1xU-L1ffwrSnEX4we1g-I4yrsfLwxeb",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Edit burger empanado.mp4",
+      "folder": "Janeiro 26",
+      "drive_folder_id": "1i1xU-L1ffwrSnEX4we1g-I4yrsfLwxeb",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Montagem triplo bacon.mp4",
+      "folder": "Janeiro 26",
+      "drive_folder_id": "1i1xU-L1ffwrSnEX4we1g-I4yrsfLwxeb",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "Burger montados em geral.mp4",
+      "folder": "Janeiro 26",
+      "drive_folder_id": "1i1xU-L1ffwrSnEX4we1g-I4yrsfLwxeb",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    }
+  ]
+}

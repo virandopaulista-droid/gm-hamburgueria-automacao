@@ -1,0 +1,502 @@
+{
+  "_readme": "Pool de fotos para carrossel de feed da GM Hamburgueria, de 'Imagens tratadas/Ano 2026/<mes>'. Todas em .HEIC -- convertidas para JPEG em memoria pelo poller antes de postar (Facebook/Instagram nao aceitam HEIC de forma confiavel). Cada entrada: file, folder, type, used, used_at. select_gm_feed.py escolhe 5 nao usadas por semana, reseta o pool quando esgota.",
+  "assets": [
+    {
+      "file": "IMG_8023.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8022.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8021.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8045.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8037.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8033.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8044.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8024.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8034.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8041.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8038.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8042.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8012.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8092.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8043.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8013.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8091.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8122.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8035.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8121.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8018.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8120.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8088.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8017.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8089.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_8090.HEIC",
+      "folder": "Ano 2026/Julho 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_1564.HEIC",
+      "folder": "Ano 2026/Abril 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_1536.HEIC",
+      "folder": "Ano 2026/Abril 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_1472.HEIC",
+      "folder": "Ano 2026/Abril 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_1499.HEIC",
+      "folder": "Ano 2026/Abril 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_1500.HEIC",
+      "folder": "Ano 2026/Abril 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_1547.HEIC",
+      "folder": "Ano 2026/Abril 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_1567.HEIC",
+      "folder": "Ano 2026/Abril 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_1455.HEIC",
+      "folder": "Ano 2026/Abril 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_1565.HEIC",
+      "folder": "Ano 2026/Abril 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_1487.HEIC",
+      "folder": "Ano 2026/Abril 26",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5216.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5242.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5187.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5149.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5256.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5160.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5219.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5200.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5155.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5271.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5153.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5225.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5269.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5247.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5251.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5264.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5218.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5209.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5194.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5185.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5231.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5170.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5189.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5227.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5211.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5254.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5172.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5234.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5221.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5222.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5237.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5252.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5202.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5230.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "IMG_5259.HEIC",
+      "folder": "Ano 2026/Janeiro",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    }
+  ]
+}

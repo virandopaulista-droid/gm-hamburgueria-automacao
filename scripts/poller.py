@@ -67,6 +67,20 @@ def python(script_rel, *args):
     return run([sys.executable, os.path.join(SCRIPTS_DIR, script_rel), *args])
 
 
+def resolve_caption_file(post):
+    """caption_text is decided once, when the plan was generated (and
+    reviewed/approved) -- never re-picked at posting time, so what actually
+    gets posted always matches what was shown for approval. Falls back to
+    calling make_caption.py only for older plans that predate this field."""
+    if post.get("caption_text"):
+        import tempfile
+        fd, path = tempfile.mkstemp(prefix="caption_live_", suffix=".txt", dir=os.path.join(PROJECT_DIR, "content"))
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            f.write(post["caption_text"])
+        return path
+    return python("make_caption.py", "reel" if post["slot"] == "reel" else "feed")
+
+
 def path_for_story(item):
     base = os.environ["GM_STORIES_DIR"]
     return os.path.join(base, item["file"])
@@ -155,7 +169,7 @@ def handle_story(post):
 def handle_reel(post):
     item = post["items"][0]
     path = path_for_reel(item)
-    caption_file = python("make_caption.py", "reel")
+    caption_file = resolve_caption_file(post)
     if DRY_RUN:
         print(f"[DRY-RUN] postaria reel: {path}")
         return
@@ -167,7 +181,7 @@ def handle_reel(post):
 
 def handle_feed(post):
     heic_paths = [path_for_feed(item) for item in post["items"]]
-    caption_file = python("make_caption.py", "feed")
+    caption_file = resolve_caption_file(post)
     if DRY_RUN:
         print(f"[DRY-RUN] postaria carrossel de feed: {heic_paths}")
         return

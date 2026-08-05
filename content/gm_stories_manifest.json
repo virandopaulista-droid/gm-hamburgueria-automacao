@@ -3,79 +3,13 @@
   "drive_folder_id": "1y80nVtlJv3wqhaV_2SG7HZf3R99nk_jw",
   "assets": [
     {
-      "file": "GM HAMBÚRGUERIA  ARTESANAL (5).mp4",
-      "type": "video",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "GM HAMBÚRGUERIA  ARTESANAL (4).mp4",
-      "type": "video",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "GM HAMBÚRGUERIA  ARTESANAL (6).mp4",
-      "type": "video",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "GM HAMBÚRGUERIA  ARTESANAL (8).mp4",
-      "type": "video",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "GM HAMBÚRGUERIA  ARTESANAL (7).mp4",
-      "type": "video",
-      "used": false,
-      "used_at": null
-    },
-    {
       "file": "37.png",
       "type": "image",
       "used": false,
       "used_at": null
     },
     {
-      "file": "29.png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "28.png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "36.png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
       "file": "32.png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "42.png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "30.png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "38.png",
       "type": "image",
       "used": false,
       "used_at": null
@@ -111,34 +45,10 @@
       "used_at": null
     },
     {
-      "file": "26.png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "27.png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "39.png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "41.png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
       "file": "GM HAMBÚRGUERIA  ARTESANAL (9).png",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-08-05T12:14:34"
     },
     {
       "file": "GM HAMBÚRGUERIA  ARTESANAL (2).mp4",
@@ -148,12 +58,6 @@
     },
     {
       "file": "GM HAMBÚRGUERIA  ARTESANAL (13).png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "GM HAMBÚRGUERIA  ARTESANAL (4).png",
       "type": "image",
       "used": false,
       "used_at": null
@@ -172,12 +76,6 @@
     },
     {
       "file": "GM HAMBÚRGUERIA  ARTESANAL (2).png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "GM HAMBÚRGUERIA  ARTESANAL (11).png",
       "type": "image",
       "used": false,
       "used_at": null
@@ -202,12 +100,6 @@
     },
     {
       "file": "GM HAMBÚRGUERIA  ARTESANAL (6).png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "GM HAMBÚRGUERIA  ARTESANAL (15).png",
       "type": "image",
       "used": false,
       "used_at": null
@@ -243,28 +135,10 @@
       "used_at": null
     },
     {
-      "file": "19072025 - SÁBADO.png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
       "file": "GM HAMBÚRGUERIA  ARTESANAL (16).png",
       "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "GM HAMBÚRGUERIA  ARTESANAL (12).png",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "GM HAMBÚRGUERIA  ARTESANAL (5).png",
-      "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-08-05T12:14:34"
     },
     {
       "file": "GM HAMBÚRGUERIA  ARTESANAL.png",
@@ -281,12 +155,6 @@
     {
       "file": "AE9F4EA3-DF10-4EC5-9673-53C2A1BB0195.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "0e22dc111e72411abd119e844d46957a.mov",
-      "type": "video",
       "used": false,
       "used_at": null
     },
@@ -315,16 +183,10 @@
       "used_at": null
     },
     {
-      "file": "047b2321efbd41bb9eb4a1349fc95da5.mov",
-      "type": "video",
-      "used": false,
-      "used_at": null
-    },
-    {
       "file": "b5828fe18a71428c840f611dd3cb34b3.mov",
       "type": "video",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-08-05T12:14:34"
     },
     {
       "file": "8E5D201A-02BC-4A33-A621-18092EDD9BB8.jpg",
@@ -333,20 +195,8 @@
       "used_at": null
     },
     {
-      "file": "DB5B9B82-B0AA-49D0-993C-4F5455D2404C.jpg",
-      "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
       "file": "DBF8AD0F-7436-4551-B16C-212528789CCB.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "567450f9a531416997067d3431c64ed4.mov",
-      "type": "video",
       "used": false,
       "used_at": null
     },
@@ -365,30 +215,12 @@
     {
       "file": "064D96E5-A9FD-40C6-818E-E90756450281.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "c63ad949aa3b452d92352d1067c93d92.mov",
-      "type": "video",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "78DA5167-E49D-4BC5-B31A-6647EA0CDB68.jpg",
-      "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-08-05T12:14:34"
     },
     {
       "file": "4E5B9BE9-0D89-4199-B7A6-586037C805D4.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "08cdd022ef7b407fa18d5d8a74a08e82.mov",
-      "type": "video",
       "used": false,
       "used_at": null
     },
@@ -441,12 +273,6 @@
       "used_at": null
     },
     {
-      "file": "0bb9c1a16b22439090efd89899689f80.mov",
-      "type": "video",
-      "used": false,
-      "used_at": null
-    },
-    {
       "file": "5c317f576d2340329d430a482fbd3d5c.mov",
       "type": "video",
       "used": false,
@@ -460,12 +286,6 @@
     },
     {
       "file": "630a2df5207b461cbbb2c57a0575c9c3.mov",
-      "type": "video",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "a8b50b4668164191aec92bddf0ea4410.mov",
       "type": "video",
       "used": false,
       "used_at": null
@@ -513,12 +333,6 @@
       "used_at": null
     },
     {
-      "file": "4439936999a04541a4cb743c693072cd.mov",
-      "type": "video",
-      "used": false,
-      "used_at": null
-    },
-    {
       "file": "EC259521-F13C-4B33-A734-3DE7740EA168.jpg",
       "type": "image",
       "used": false,
@@ -527,17 +341,11 @@
     {
       "file": "eb8eb22a1ebf4a4fbaffa79d2f27ee92.mov",
       "type": "video",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-08-05T12:14:34"
     },
     {
       "file": "759f5b0ef1e74392877a963f439cdb57.mov",
-      "type": "video",
-      "used": false,
-      "used_at": null
-    },
-    {
-      "file": "f8b432bc1e264da694058ec11f1ecaad.mov",
       "type": "video",
       "used": false,
       "used_at": null
@@ -549,7 +357,223 @@
       "used_at": null
     },
     {
-      "file": "b7e4d1339dd94122a8ba5ff601ab114c.mov",
+      "file": "1.jpg",
+      "type": "image",
+      "used": true,
+      "used_at": "2026-08-05T15:53:34"
+    },
+    {
+      "file": "2.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "3.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "4.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "5.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "6.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "7.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "8.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "9.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "10.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "11.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "12.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "13.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "14.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "15.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "16.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "17.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "18.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "19.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "20.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "21.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "22.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "23.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "24.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "25.jpg",
+      "type": "image",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "26.mp4",
+      "type": "video",
+      "used": true,
+      "used_at": "2026-08-05T15:53:34"
+    },
+    {
+      "file": "27.mp4",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "28.mp4",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "29.mp4",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "30.mp4",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "31.mp4",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "32.mp4",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "33.mp4",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "34.mp4",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "35.mp4",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "36.mp4",
+      "type": "video",
+      "used": false,
+      "used_at": null
+    },
+    {
+      "file": "37.mp4",
       "type": "video",
       "used": false,
       "used_at": null

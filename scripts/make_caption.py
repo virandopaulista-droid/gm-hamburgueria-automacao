@@ -15,7 +15,7 @@ import tempfile
 
 FOOTER = (
     "\n\n📍 GM Hamburgueria Artesanal\n"
-    "⏰ Delivery: todos os dias — das 11h às 01h\n"
+    "⏰ Delivery: todos os dias, das 11h às 01h\n"
     "👉 Peça já o seu!"
 )
 

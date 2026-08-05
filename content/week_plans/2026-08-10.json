@@ -1,0 +1,96 @@
+{
+  "week_start": "2026-08-10",
+  "status": "pending_approval",
+  "generated_at": "2026-08-05T12:14:34",
+  "posts": [
+    {
+      "date": "2026-08-10",
+      "weekday": "segunda",
+      "slot": "story",
+      "items": [
+        {
+          "file": "064D96E5-A9FD-40C6-818E-E90756450281.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "weekday": "terca",
+      "slot": "story",
+      "items": [
+        {
+          "file": "eb8eb22a1ebf4a4fbaffa79d2f27ee92.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "weekday": "quarta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (9).png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "weekday": "quinta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "b5828fe18a71428c840f611dd3cb34b3.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "weekday": "sexta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (4).png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "weekday": "sexta",
+      "slot": "reel",
+      "items": [
+        {
+          "file": "Edit geral dos lanches.mp4",
+          "folder": "Abril 26",
+          "drive_folder_id": "1CnkmyPSs4C_WqYv8sUocq2V9-HehU83B"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "weekday": "sabado",
+      "slot": "story",
+      "items": [
+        {
+          "file": "0bb9c1a16b22439090efd89899689f80.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "weekday": "domingo",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (16).png",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}

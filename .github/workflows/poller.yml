@@ -19,7 +19,11 @@ on:
         type: boolean
         default: false
       force_slot:
-        description: "(opcional, so p/ teste manual) forca postar agora, ignorando a janela de horario: story | feed | reel"
+        description: "(opcional, so p/ teste manual) forca postar agora, ignorando a janela de horario: story | weekly (usa --force-date tambem, ver README)"
+        type: string
+        default: ""
+      force_date:
+        description: "(opcional, junto com force_slot) data do post no cronograma, formato AAAA-MM-DD"
         type: string
         default: ""
 
@@ -138,6 +142,9 @@ jobs:
           extra_args=()
           if [ -n "${{ inputs.force_slot }}" ]; then
             extra_args+=(--force-slot "${{ inputs.force_slot }}")
+          fi
+          if [ -n "${{ inputs.force_date }}" ]; then
+            extra_args+=(--force-date "${{ inputs.force_date }}")
           fi
           if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.live }}" = "true" ]; then
             bash scripts/run_poller.sh --live "${extra_args[@]}"

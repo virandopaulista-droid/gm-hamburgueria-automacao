@@ -1,12 +1,18 @@
 # GM Hamburgueria — automação de postagem
 
-Publica automaticamente no Facebook e Instagram da GM Hamburgueria, direto de mídia já tratada no Google Drive. Sem plano curado (diferente do Bernardino) — escolhe aleatoriamente um item não usado de cada pool, mesmo modelo do TopTop Pizzaria.
+Publica automaticamente no Facebook e Instagram da GM Hamburgueria, direto de mídia já tratada no Google Drive — usando o mesmo modelo de **cronograma curado com aprovação** do Bernardino: nada é escolhido "às cegas" na hora de postar.
+
+## Fluxo
+
+1. `scripts/generate_week_plan.py` monta o cronograma da semana (1 story/dia + 1 post semanal de sexta, que é OU um reel OU um carrossel — nunca os dois na mesma semana) e salva em `content/week_plans/<segunda-feira>.json` com `status: "pending_approval"`.
+2. O cronograma aparece no painel (`painel_publicacoes.html`, aba GM) pra Rob revisar.
+3. Depois de aprovado (`scripts/approve_week_plan.py content/week_plans/<data>.json`, ou pelo painel), o `status` vira `"approved"`.
+4. Só então o `poller.py` (rodando via GitHub Actions) publica os posts do plano aprovado, nos horários da semana.
 
 ## Cronograma
 
 - **Story**: todos os dias, 19h30 — 1 item (foto ou vídeo) de `STORIES/Brenda - Stories`.
-- **Feed**: sexta-feira, 11h00 — carrossel de 5 fotos de `Imagens tratadas/Ano 2026/*`.
-- **Reel**: segunda-feira, 18h00 — 1 vídeo de `Vídeos Tratados/2026/*`.
+- **Post semanal**: sexta-feira, 11h00 — OU um carrossel de 5 fotos (`Imagens tratadas/Ano 2026/*`) OU um reel (`Vídeos Tratados/2026/*`), decidido no momento de gerar o cronograma da semana.
 
 Ajuste dias/horários em `SCHEDULE` no topo de `scripts/poller.py`.
 
@@ -36,8 +42,15 @@ Nunca cole esses valores em uma conversa de chat — configure direto pelo GitHu
 
 ## Testar
 
+Gerar um cronograma de teste e aprovar:
+
+```
+py -3 scripts/generate_week_plan.py
+py -3 scripts/approve_week_plan.py content/week_plans/<data-da-segunda>.json
+```
+
+Rodar o poller em modo simulação (não publica de verdade, só valida o mount do Drive e a leitura do plano aprovado):
+
 ```
 gh workflow run poller.yml --repo virandopaulista-droid/gm-hamburgueria-automacao -f live=false
 ```
-
-Roda em modo simulação (não publica de verdade) — valida o mount do Drive e a seleção de mídia.

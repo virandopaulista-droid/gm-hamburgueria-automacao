@@ -92,8 +92,8 @@
       "slot": "story",
       "items": [
         {
-          "file": "d5d70c2b19604c1f89d21cab7c479353.mov",
-          "type": "video"
+          "file": "6.jpg",
+          "type": "image"
         }
       ]
     },
@@ -103,7 +103,7 @@
       "slot": "story",
       "items": [
         {
-          "file": "15.jpg",
+          "file": "2.jpg",
           "type": "image"
         }
       ]

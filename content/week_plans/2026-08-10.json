@@ -20,8 +20,8 @@
       "slot": "story",
       "items": [
         {
-          "file": "eb8eb22a1ebf4a4fbaffa79d2f27ee92.mov",
-          "type": "video"
+          "file": "3.jpg",
+          "type": "image"
         }
       ]
     },
@@ -42,8 +42,8 @@
       "slot": "story",
       "items": [
         {
-          "file": "b5828fe18a71428c840f611dd3cb34b3.mov",
-          "type": "video"
+          "file": "4.jpg",
+          "type": "image"
         }
       ]
     },
@@ -77,8 +77,8 @@
       "slot": "story",
       "items": [
         {
-          "file": "26.mp4",
-          "type": "video"
+          "file": "7.jpg",
+          "type": "image"
         }
       ]
     },

@@ -46,14 +46,46 @@ def save_manifest(data, path):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def pick_unused(data, n=1):
+def pick_unused(data, n=1, weekday_label=None):
+    """Escolhe n itens nao usados, marcando-os como usados. Reseta o pool
+    inteiro se nao houver itens suficientes.
+
+    Se weekday_label for passado, filtra por "locked_weekday": um asset
+    com locked_weekday definido (dia da semana escrito na propria arte --
+    ex: template antigo do Canva com "SEXTA E DIA DE PEDIR BURGUER!"
+    estampado na imagem) so fica elegivel quando locked_weekday ==
+    weekday_label; assets sem locked_weekday continuam elegiveis em
+    qualquer dia. Espelha pickUnused() em beefmkt-painel-app/lib/planLogic.ts
+    -- ver o commit que corrigiu 15.jpg/eb8eb22a... indo pro dia errado nos
+    planos de 03/08 e 10/08 pro bug real que isso previne.
+
+    Se o pool filtrado por dia esgotar, reseta so o subconjunto elegivel
+    primeiro (preserva o reset "geral" de sempre quando weekday_label nao e'
+    passado); se mesmo assim faltar item, cai pra qualquer asset sem
+    locked_weekday -- nunca pra um travado em outro dia.
+    """
     assets = data["assets"]
-    pool = [a for a in assets if not a["used"]]
+
+    def eligible(a):
+        return not weekday_label or not a.get("locked_weekday") or a["locked_weekday"] == weekday_label
+
+    pool = [a for a in assets if not a["used"] and eligible(a)]
     if len(pool) < n:
         for a in assets:
-            a["used"] = False
-            a["used_at"] = None
-        pool = assets
+            if eligible(a):
+                a["used"] = False
+                a["used_at"] = None
+        pool = [a for a in assets if eligible(a)]
+
+    if len(pool) < n and weekday_label:
+        pool = [a for a in assets if not a["used"] and not a.get("locked_weekday")]
+        if len(pool) < n:
+            for a in assets:
+                if not a.get("locked_weekday"):
+                    a["used"] = False
+                    a["used_at"] = None
+            pool = [a for a in assets if not a.get("locked_weekday")]
+
     picks = random.sample(pool, min(n, len(pool)))
     now = datetime.datetime.now().isoformat(timespec="seconds")
     for entry in picks:
@@ -77,7 +109,7 @@ def main():
     posts = []
     for i in range(7):
         day = monday + datetime.timedelta(days=i)
-        pick = pick_unused(stories_data, 1)[0]
+        pick = pick_unused(stories_data, 1, WEEKDAY_NAMES[i])[0]
         posts.append({
             "date": day.isoformat(),
             "weekday": WEEKDAY_NAMES[i],

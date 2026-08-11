@@ -32,6 +32,10 @@ def read_file_with_retry(path, attempts=6, delay_seconds=10):
     # failing a real scheduled post.
     for attempt in range(1, attempts + 1):
         try:
+            os.listdir(os.path.dirname(path))
+        except OSError:
+            pass
+        try:
             with open(path, "rb") as f:
                 return f.read()
         except FileNotFoundError:
@@ -112,6 +116,13 @@ for image_path in image_paths:
         )
         print(f"IG story publicado: {image_path} -> {ig_story}")
     except urllib.error.HTTPError as e:
-        print(f"Erro da API em {image_path}: {e.read().decode('utf-8')}", file=sys.stderr)
+        try:
+            body = e.read().decode("utf-8")
+        except Exception:
+            body = "(corpo ja consumido ou indisponivel)"
+        print(f"Erro da API em {image_path}: HTTP {e.code} {e.reason} -- {body}", file=sys.stderr)
+        raise SystemExit(1)
+    except Exception as e:
+        print(f"Erro inesperado em {image_path}: {type(e).__name__}: {e}", file=sys.stderr)
         raise SystemExit(1)
 PYEOF

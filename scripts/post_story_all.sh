@@ -97,7 +97,7 @@ for image_path in image_paths:
             {"access_token": token, "published": "false"},
             [("source", os.path.basename(image_path), image_bytes)],
         )
-        info = get_json(f"https://graph.facebook.com/v20.0/{photo_result['id']}?fields=images&access_token={token}")
+        info = get_json(f"https://graph.facebook.com/v20.0/{photo_result['id']}?fields=images&access_token={urllib.parse.quote(token, safe='')}")
         public_url = info["images"][0]["source"]
 
         fb_story = post_form(

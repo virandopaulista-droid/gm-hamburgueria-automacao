@@ -120,7 +120,7 @@ for image_path in image_paths:
             body = e.read().decode("utf-8")
         except Exception:
             body = "(corpo ja consumido ou indisponivel)"
-        print(f"Erro da API em {image_path}: HTTP {e.code} {e.reason} -- {body}", file=sys.stderr)
+        print(f"Erro da API em {image_path}: url={e.url} HTTP {e.code} {e.reason} headers={dict(e.headers)} -- corpo={body!r}", file=sys.stderr)
         raise SystemExit(1)
     except Exception as e:
         print(f"Erro inesperado em {image_path}: {type(e).__name__}: {e}", file=sys.stderr)

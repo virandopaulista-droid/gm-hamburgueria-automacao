@@ -131,14 +131,23 @@ jobs:
 
       - name: Write .env
         run: |
-          stories_name=$(ls "$GM_DIR/STORIES" | grep -i "^Brenda - Stories$" | head -1)
+          # Several subfolder names on the Drive have a trailing space (confirmed
+          # via the Google Drive API: "STORIES ", "Brenda - Stories ", "Vídeos
+          # Tratados ", "Imagens tratadas " all have one) -- resolve the real
+          # on-disk name via ls+grep instead of hardcoding it, same defensive
+          # pattern already used for the "Clientes */GM - Hamburgueria" lookup
+          # above and for Au Gratin's Write .env step.
+          stories_dir_name=$(ls "$GM_DIR" | grep -i "^STORIES *$" | head -1)
+          brenda_name=$(ls "$GM_DIR/$stories_dir_name" | grep -i "^Brenda - Stories *$" | head -1)
+          videos_name=$(ls "$GM_DIR" | grep -i "^V.deos Tratados *$" | head -1)
+          imagens_name=$(ls "$GM_DIR" | grep -i "^Imagens tratadas *$" | head -1)
           cat > .env <<EOF
           FB_PAGE_ACCESS_TOKEN="$FB_PAGE_ACCESS_TOKEN"
           FB_PAGE_ID="$FB_PAGE_ID"
           IG_BUSINESS_ID="$IG_BUSINESS_ID"
-          GM_STORIES_DIR="$GM_DIR/STORIES/$stories_name"
-          GM_VIDEOS_DIR="$GM_DIR/Vídeos Tratados/2026"
-          GM_IMAGES_DIR="$GM_DIR/Imagens tratadas"
+          GM_STORIES_DIR="$GM_DIR/$stories_dir_name/$brenda_name"
+          GM_VIDEOS_DIR="$GM_DIR/$videos_name/2026"
+          GM_IMAGES_DIR="$GM_DIR/$imagens_name"
           EOF
           cat .env | sed 's/^\(FB_PAGE_ACCESS_TOKEN\)=.*/\1=***/'
 

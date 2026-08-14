@@ -56,7 +56,9 @@
           "file": "1.jpg",
           "type": "image"
         }
-      ]
+      ],
+      "posted": true,
+      "posted_at": "2026-08-14T19:32:03"
     },
     {
       "date": "2026-08-14",

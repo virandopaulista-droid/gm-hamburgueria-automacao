@@ -171,7 +171,7 @@ jobs:
         run: |
           git config user.name "GM Hamburgueria Automacao"
           git config user.email "virandopaulista@gmail.com"
-          git add content/*.json 2>/dev/null || true
+          git add content/*.json content/week_plans/*.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "nada para commitar"
             exit 0

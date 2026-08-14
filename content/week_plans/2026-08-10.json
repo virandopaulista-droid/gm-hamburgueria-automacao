@@ -69,7 +69,10 @@
           "drive_folder_id": "1CnkmyPSs4C_WqYv8sUocq2V9-HehU83B"
         }
       ],
-      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!"
+      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!",
+      "posted": true,
+      "posted_at": "2026-08-14T16:31:10",
+      "posting_error": "Falha parcial/total ao publicar -- verificar manualmente o que saiu de verdade. Erro: comando falhou (exit 1): ['bash', '/home/runner/work/gm-hamburgueria-automacao/gm-hamburgueria-automacao/scripts/post_reel_fb.sh', '/home/runner/gdrive/Agência BEEF MTK/Clientes /GM - Hamburgueria /Vídeos Tratados /2026/Abril 26/Edit geral dos lanches.mp4', '/home/runner/work/gm-hamburgueria-automacao/gm-hamburgueria-automacao/content/caption_live_k3acktp_.txt']"
     },
     {
       "date": "2026-08-15",

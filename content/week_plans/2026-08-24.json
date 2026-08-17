@@ -1,0 +1,30 @@
+{
+  "week_start": "2026-08-24",
+  "status": "pending_approval",
+  "generated_at": "2026-08-17T00:11:16",
+  "note": "Reprogramado: sabado e domingo de 2026-08-15/16 nao saíram por bloqueio de cobranca no GitHub (ver historico). Mesmo conteudo, novas datas.",
+  "posts": [
+    {
+      "date": "2026-08-29",
+      "weekday": "sabado",
+      "slot": "story",
+      "items": [
+        {
+          "file": "7.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "weekday": "domingo",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (16).png",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}

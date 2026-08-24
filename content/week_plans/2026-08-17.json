@@ -95,9 +95,7 @@
         }
       ],
       "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!",
-      "posted": true,
-      "posted_at": "2026-08-24T18:22:46",
-      "posting_error": "Falha parcial/total ao publicar -- verificar manualmente o que saiu de verdade. Erro: comando falhou (exit 183): ['bash', '/home/runner/work/gm-hamburgueria-automacao/gm-hamburgueria-automacao/scripts/convert_heic_to_jpg.sh', '/home/runner/gdrive/Agência BEEF MTK/Clientes /GM - Hamburgueria /Imagens tratadas /Ano 2026/Julho 26/IMG_8090.HEIC', '/home/runner/work/gm-hamburgueria-automacao/gm-hamburgueria-automacao/_tmp_feed_1.jpg']"
+      "posted": false
     },
     {
       "date": "2026-08-22",

@@ -2,8 +2,91 @@
   "week_start": "2026-08-24",
   "status": "approved",
   "generated_at": "2026-08-17T00:11:16",
-  "note": "Reprogramado: sabado e domingo de 2026-08-15/16 nao saíram por bloqueio de cobranca no GitHub (ver historico). Mesmo conteudo, novas datas.",
+  "note": "Reprogramado: sabado e domingo de 2026-08-15/16 nao saíram por bloqueio de cobranca no GitHub (ver historico). Mesmo conteudo, novas datas. | complementado 2026-08-27: faltavam segunda-sexta (stub so tinha sab/dom).",
   "posts": [
+    {
+      "date": "2026-08-24",
+      "weekday": "segunda",
+      "slot": "story",
+      "items": [
+        {
+          "file": "18.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "weekday": "terca",
+      "slot": "story",
+      "items": [
+        {
+          "file": "81660C18-4491-4427-868E-B52F96E05DF7.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "weekday": "quarta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "b0fd7dd178de49d5b7233e805b869158.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "weekday": "quinta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "weekday": "sexta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "35.mp4",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "weekday": "sexta",
+      "slot": "feed",
+      "items": [
+        {
+          "file": "IMG_5187.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        },
+        {
+          "file": "IMG_8089.HEIC",
+          "folder": "Ano 2026/Julho 26"
+        },
+        {
+          "file": "IMG_1567.HEIC",
+          "folder": "Ano 2026/Abril 26"
+        },
+        {
+          "file": "IMG_5251.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        },
+        {
+          "file": "IMG_5149.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        }
+      ],
+      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!"
+    },
     {
       "date": "2026-08-29",
       "weekday": "sabado",

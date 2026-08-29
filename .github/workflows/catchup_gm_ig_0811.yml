@@ -1,0 +1,31 @@
+name: Catchup IG GM 08-11 (temp)
+
+on:
+  workflow_dispatch:
+
+env:
+  RCLONE_CONFIG_SECRET: ${{ secrets.RCLONE_CONFIG }}
+  FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+  FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+  IG_BUSINESS_ID: ${{ secrets.IG_BUSINESS_ID }}
+
+jobs:
+  catchup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install rclone
+        run: curl https://rclone.org/install.sh | sudo bash
+      - name: Mount Drive
+        run: |
+          mkdir -p ~/.config/rclone
+          printf '%s' "$RCLONE_CONFIG_SECRET" > ~/.config/rclone/rclone.conf
+          mkdir -p "$HOME/gdrive"
+          rclone mount gdrive: "$HOME/gdrive" --daemon --vfs-cache-mode=minimal --dir-cache-time=1h --timeout=60s --contimeout=60s --low-level-retries=15 --log-file="$HOME/rclone-mount.log" --log-level=INFO
+          sleep 5
+          ls "$HOME/gdrive/Agência BEEF MTK/Clientes /GM - Hamburgueria /STORIES /Brenda - Stories /3.jpg"
+      - name: Post to Instagram
+        run: python3 scripts/catchup_gm_ig_0811.py

@@ -93,7 +93,9 @@
           "file": "7.jpg",
           "type": "image"
         }
-      ]
+      ],
+      "posted": true,
+      "posted_at": "2026-08-28T23:05:30"
     },
     {
       "date": "2026-08-16",

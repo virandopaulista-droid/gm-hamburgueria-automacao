@@ -52,7 +52,9 @@
           "file": "4.jpg",
           "type": "image"
         }
-      ]
+      ],
+      "posted": true,
+      "posted_at": "2026-08-28T23:04:01"
     },
     {
       "date": "2026-08-14",

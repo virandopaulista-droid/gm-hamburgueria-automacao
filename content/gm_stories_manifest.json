@@ -207,8 +207,8 @@
     {
       "file": "DBF8AD0F-7436-4551-B16C-212528789CCB.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null,
+      "used": true,
+      "used_at": "2026-08-31T00:17:15",
       "locked_weekday": "sexta"
     },
     {
@@ -259,8 +259,8 @@
     {
       "file": "99c079e7912b471580821c840e294266.mov",
       "type": "video",
-      "used": false,
-      "used_at": null,
+      "used": true,
+      "used_at": "2026-08-31T00:17:15",
       "locked_weekday": "sabado"
     },
     {
@@ -371,8 +371,8 @@
     {
       "file": "759f5b0ef1e74392877a963f439cdb57.mov",
       "type": "video",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-08-31T00:17:15"
     },
     {
       "file": "1.jpg",
@@ -456,8 +456,8 @@
     {
       "file": "14.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-08-31T00:17:15"
     },
     {
       "file": "15.jpg",
@@ -469,8 +469,8 @@
     {
       "file": "16.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-08-31T00:17:15"
     },
     {
       "file": "17.jpg",
@@ -526,8 +526,8 @@
     {
       "file": "25.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null,
+      "used": true,
+      "used_at": "2026-08-31T00:17:15",
       "locked_weekday": "segunda"
     },
     {
@@ -554,8 +554,8 @@
     {
       "file": "29.mp4",
       "type": "video",
-      "used": false,
-      "used_at": null,
+      "used": true,
+      "used_at": "2026-08-31T00:17:15",
       "locked_weekday": "domingo"
     },
     {

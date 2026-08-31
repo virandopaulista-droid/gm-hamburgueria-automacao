@@ -1,0 +1,97 @@
+{
+  "week_start": "2026-08-31",
+  "status": "pending_approval",
+  "generated_at": "2026-08-31T00:17:15",
+  "posts": [
+    {
+      "date": "2026-08-31",
+      "weekday": "segunda",
+      "slot": "story",
+      "items": [
+        {
+          "file": "25.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "weekday": "terca",
+      "slot": "story",
+      "items": [
+        {
+          "file": "14.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "weekday": "quarta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "16.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "weekday": "quinta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "759f5b0ef1e74392877a963f439cdb57.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "weekday": "sexta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "DBF8AD0F-7436-4551-B16C-212528789CCB.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "weekday": "sexta",
+      "slot": "reel",
+      "items": [
+        {
+          "file": "Video narrado dono.mp4",
+          "folder": "Jul 26",
+          "drive_folder_id": "1Z4339PcI27xugfyLvIo0Fbe_hG2iK9WB"
+        }
+      ],
+      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!"
+    },
+    {
+      "date": "2026-09-05",
+      "weekday": "sabado",
+      "slot": "story",
+      "items": [
+        {
+          "file": "99c079e7912b471580821c840e294266.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "weekday": "domingo",
+      "slot": "story",
+      "items": [
+        {
+          "file": "29.mp4",
+          "type": "video"
+        }
+      ]
+    }
+  ]
+}

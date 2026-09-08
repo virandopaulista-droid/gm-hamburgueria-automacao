@@ -157,8 +157,8 @@
     {
       "file": "64f4b957b2ab4a189d53dad7c4032ad9.mov",
       "type": "video",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-09-08T15:16:28"
     },
     {
       "file": "AE9F4EA3-DF10-4EC5-9673-53C2A1BB0195.jpg",
@@ -170,8 +170,8 @@
     {
       "file": "8a9963e6ae5a45018aee9bcd42742b1a.mov",
       "type": "video",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-09-08T15:16:28"
     },
     {
       "file": "65B25EF9-1A05-4EB8-9005-6108CDB50616.jpg",
@@ -188,8 +188,8 @@
     {
       "file": "430F3EF7-AD3F-4462-BD2F-905BDB523304.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-09-08T15:16:28"
     },
     {
       "file": "b5828fe18a71428c840f611dd3cb34b3.mov",
@@ -201,8 +201,8 @@
     {
       "file": "8E5D201A-02BC-4A33-A621-18092EDD9BB8.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-09-08T15:16:28"
     },
     {
       "file": "DBF8AD0F-7436-4551-B16C-212528789CCB.jpg",
@@ -234,8 +234,8 @@
     {
       "file": "4E5B9BE9-0D89-4199-B7A6-586037C805D4.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-09-08T15:16:28"
     },
     {
       "file": "b0fd7dd178de49d5b7233e805b869158.mov",
@@ -253,8 +253,8 @@
     {
       "file": "6263533bc7f64c73af5ba6e878d4a127.mov",
       "type": "video",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-09-08T15:16:28"
     },
     {
       "file": "99c079e7912b471580821c840e294266.mov",
@@ -432,8 +432,8 @@
     {
       "file": "10.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-09-08T15:16:28"
     },
     {
       "file": "11.jpg",

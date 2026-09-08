@@ -1,0 +1,112 @@
+{
+  "week_start": "2026-09-07",
+  "status": "pending_approval",
+  "generated_at": "2026-09-08T15:16:28",
+  "posts": [
+    {
+      "date": "2026-09-07",
+      "weekday": "segunda",
+      "slot": "story",
+      "items": [
+        {
+          "file": "4E5B9BE9-0D89-4199-B7A6-586037C805D4.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "weekday": "terca",
+      "slot": "story",
+      "items": [
+        {
+          "file": "6263533bc7f64c73af5ba6e878d4a127.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "weekday": "quarta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "8a9963e6ae5a45018aee9bcd42742b1a.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "weekday": "quinta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "8E5D201A-02BC-4A33-A621-18092EDD9BB8.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "weekday": "sexta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "10.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "weekday": "sexta",
+      "slot": "feed",
+      "items": [
+        {
+          "file": "IMG_5155.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        },
+        {
+          "file": "IMG_1565.HEIC",
+          "folder": "Ano 2026/Abril 26"
+        },
+        {
+          "file": "IMG_5259.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        },
+        {
+          "file": "IMG_5237.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        },
+        {
+          "file": "IMG_8043.HEIC",
+          "folder": "Ano 2026/Julho 26"
+        }
+      ],
+      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!"
+    },
+    {
+      "date": "2026-09-12",
+      "weekday": "sabado",
+      "slot": "story",
+      "items": [
+        {
+          "file": "64f4b957b2ab4a189d53dad7c4032ad9.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "weekday": "domingo",
+      "slot": "story",
+      "items": [
+        {
+          "file": "430F3EF7-AD3F-4462-BD2F-905BDB523304.jpg",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}

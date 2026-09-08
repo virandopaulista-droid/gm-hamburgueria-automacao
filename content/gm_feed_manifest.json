@@ -103,8 +103,8 @@
       "file": "IMG_8043.HEIC",
       "folder": "Ano 2026/Julho 26",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-09-08T15:16:28"
     },
     {
       "file": "IMG_8013.HEIC",
@@ -243,8 +243,8 @@
       "file": "IMG_1565.HEIC",
       "folder": "Ano 2026/Abril 26",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-09-08T15:16:28"
     },
     {
       "file": "IMG_1487.HEIC",
@@ -313,8 +313,8 @@
       "file": "IMG_5155.HEIC",
       "folder": "Ano 2026/Janeiro",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-09-08T15:16:28"
     },
     {
       "file": "IMG_5271.HEIC",
@@ -467,8 +467,8 @@
       "file": "IMG_5237.HEIC",
       "folder": "Ano 2026/Janeiro",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-09-08T15:16:28"
     },
     {
       "file": "IMG_5252.HEIC",
@@ -495,8 +495,8 @@
       "file": "IMG_5259.HEIC",
       "folder": "Ano 2026/Janeiro",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-09-08T15:16:28"
     }
   ]
 }

@@ -132,8 +132,8 @@
     {
       "file": "GM HAMBÚRGUERIA  ARTESANAL.mp4",
       "type": "video",
-      "used": false,
-      "used_at": null,
+      "used": true,
+      "used_at": "2026-09-14T05:16:26",
       "locked_weekday": "domingo"
     },
     {
@@ -266,8 +266,8 @@
     {
       "file": "30fb22532de344f8a2d619d3456735ff.mov",
       "type": "video",
-      "used": true,
-      "used_at": "2026-09-12T04:23:29"
+      "used": false,
+      "used_at": null
     },
     {
       "file": "D516AB3A-A8CB-437F-8646-B1481B038D7D.jpg",

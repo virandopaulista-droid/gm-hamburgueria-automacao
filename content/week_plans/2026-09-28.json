@@ -1,0 +1,97 @@
+{
+  "week_start": "2026-09-28",
+  "status": "pending_approval",
+  "generated_at": "2026-09-17T00:20:22",
+  "posts": [
+    {
+      "date": "2026-09-28",
+      "weekday": "segunda",
+      "slot": "story",
+      "items": [
+        {
+          "file": "b5828fe18a71428c840f611dd3cb34b3.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "weekday": "terca",
+      "slot": "story",
+      "items": [
+        {
+          "file": "22.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "weekday": "quarta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "33.mp4",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "weekday": "quinta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "E1C2D4BF-F001-4815-B39F-AFC2603C7034.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "sexta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "26.mp4",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "sexta",
+      "slot": "reel",
+      "items": [
+        {
+          "file": "GM Burguer Pacote premiado.mp4",
+          "folder": "Março 26",
+          "drive_folder_id": "142XKXDoBw28aUKFftfh3Dpo2hYDqu8EI"
+        }
+      ],
+      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!"
+    },
+    {
+      "date": "2026-10-03",
+      "weekday": "sabado",
+      "slot": "story",
+      "items": [
+        {
+          "file": "30fb22532de344f8a2d619d3456735ff.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "weekday": "domingo",
+      "slot": "story",
+      "items": [
+        {
+          "file": "33.png",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}

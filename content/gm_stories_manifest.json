@@ -188,8 +188,8 @@
     {
       "file": "430F3EF7-AD3F-4462-BD2F-905BDB523304.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-10-03T03:02:31"
     },
     {
       "file": "b5828fe18a71428c840f611dd3cb34b3.mov",
@@ -613,8 +613,8 @@
     {
       "file": "71684f5b030641199f07ee5096b9ab0f.mov",
       "type": "video",
-      "used": true,
-      "used_at": "2026-10-03T03:02:21",
+      "used": false,
+      "used_at": null,
       "added_at": "2026-09-24T04:40:05.285Z"
     }
   ]

@@ -1,0 +1,97 @@
+{
+  "week_start": "2026-10-12",
+  "status": "pending_approval",
+  "generated_at": "2026-10-03T03:01:58",
+  "posts": [
+    {
+      "date": "2026-10-12",
+      "weekday": "segunda",
+      "slot": "story",
+      "items": [
+        {
+          "file": "71684f5b030641199f07ee5096b9ab0f.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "weekday": "terca",
+      "slot": "story",
+      "items": [
+        {
+          "file": "FE7FDF43-7015-4A9E-BB28-763C0FF1E03E.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "weekday": "quarta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "d51ee93a32094389bd6cf0a953a93a7c.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "weekday": "quinta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "14.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "weekday": "sexta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "6263533bc7f64c73af5ba6e878d4a127.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "weekday": "sexta",
+      "slot": "reel",
+      "items": [
+        {
+          "file": "Edit burguer novo.mp4",
+          "folder": "Março 26",
+          "drive_folder_id": "142XKXDoBw28aUKFftfh3Dpo2hYDqu8EI"
+        }
+      ],
+      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!"
+    },
+    {
+      "date": "2026-10-17",
+      "weekday": "sabado",
+      "slot": "story",
+      "items": [
+        {
+          "file": "17.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "weekday": "domingo",
+      "slot": "story",
+      "items": [
+        {
+          "file": "175ACE69-CE25-4D57-9174-FA97FBEAE5B5.jpg",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}

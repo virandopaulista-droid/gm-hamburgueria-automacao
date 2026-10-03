@@ -182,8 +182,8 @@
     {
       "file": "FE7FDF43-7015-4A9E-BB28-763C0FF1E03E.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-10-03T03:01:58"
     },
     {
       "file": "430F3EF7-AD3F-4462-BD2F-905BDB523304.jpg",
@@ -253,8 +253,8 @@
     {
       "file": "6263533bc7f64c73af5ba6e878d4a127.mov",
       "type": "video",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-10-03T03:01:58"
     },
     {
       "file": "99c079e7912b471580821c840e294266.mov",
@@ -319,8 +319,8 @@
     {
       "file": "175ACE69-CE25-4D57-9174-FA97FBEAE5B5.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-10-03T03:01:58"
     },
     {
       "file": "32D439FA-4644-4402-9D22-1473BC0D9207.jpg",
@@ -352,8 +352,8 @@
     {
       "file": "d51ee93a32094389bd6cf0a953a93a7c.mov",
       "type": "video",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-10-03T03:01:58"
     },
     {
       "file": "EC259521-F13C-4B33-A734-3DE7740EA168.jpg",
@@ -456,8 +456,8 @@
     {
       "file": "14.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-10-03T03:01:58"
     },
     {
       "file": "15.jpg",
@@ -475,8 +475,8 @@
     {
       "file": "17.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-10-03T03:01:58"
     },
     {
       "file": "18.jpg",
@@ -613,8 +613,8 @@
     {
       "file": "71684f5b030641199f07ee5096b9ab0f.mov",
       "type": "video",
-      "used": false,
-      "used_at": null,
+      "used": true,
+      "used_at": "2026-10-03T03:01:58",
       "added_at": "2026-09-24T04:40:05.285Z"
     }
   ]

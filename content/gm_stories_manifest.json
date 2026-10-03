@@ -45,8 +45,8 @@
     {
       "file": "31.png",
       "type": "image",
-      "used": true,
-      "used_at": "2026-10-03T03:02:21"
+      "used": false,
+      "used_at": null
     },
     {
       "file": "GM HAMBÚRGUERIA  ARTESANAL (9).png",
@@ -613,8 +613,8 @@
     {
       "file": "71684f5b030641199f07ee5096b9ab0f.mov",
       "type": "video",
-      "used": false,
-      "used_at": null,
+      "used": true,
+      "used_at": "2026-10-03T03:02:40",
       "added_at": "2026-09-24T04:40:05.285Z"
     }
   ]

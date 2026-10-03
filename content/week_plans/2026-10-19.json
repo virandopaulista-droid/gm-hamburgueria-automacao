@@ -1,0 +1,97 @@
+{
+  "week_start": "2026-10-19",
+  "status": "pending_approval",
+  "generated_at": "2026-10-03T03:02:21",
+  "posts": [
+    {
+      "date": "2026-10-19",
+      "weekday": "segunda",
+      "slot": "story",
+      "items": [
+        {
+          "file": "71684f5b030641199f07ee5096b9ab0f.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "weekday": "terca",
+      "slot": "story",
+      "items": [
+        {
+          "file": "31.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "weekday": "quarta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "4.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "weekday": "quinta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "1EA3B29D-7904-4AEF-9D36-EA524AE7196F.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "weekday": "sexta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "13.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "weekday": "sexta",
+      "slot": "reel",
+      "items": [
+        {
+          "file": "Burger montados em geral.mp4",
+          "folder": "Janeiro 26",
+          "drive_folder_id": "1i1xU-L1ffwrSnEX4we1g-I4yrsfLwxeb"
+        }
+      ],
+      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!"
+    },
+    {
+      "date": "2026-10-24",
+      "weekday": "sabado",
+      "slot": "story",
+      "items": [
+        {
+          "file": "20.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "weekday": "domingo",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (1).png",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}

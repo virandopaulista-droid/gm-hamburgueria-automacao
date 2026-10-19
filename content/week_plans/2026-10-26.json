@@ -1,0 +1,97 @@
+{
+  "week_start": "2026-10-26",
+  "status": "pending_approval",
+  "generated_at": "2026-10-19T11:55:06",
+  "posts": [
+    {
+      "date": "2026-10-26",
+      "weekday": "segunda",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (8).png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "weekday": "terca",
+      "slot": "story",
+      "items": [
+        {
+          "file": "32.mp4",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "weekday": "quarta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "CA0C0A08-E7E9-4757-89F5-5106DF401B4B.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "weekday": "quinta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "64f4b957b2ab4a189d53dad7c4032ad9.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "weekday": "sexta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "35.mp4",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "weekday": "sexta",
+      "slot": "reel",
+      "items": [
+        {
+          "file": "Edit geral dos burgers.mp4",
+          "folder": "Jul 26",
+          "drive_folder_id": "1Z4339PcI27xugfyLvIo0Fbe_hG2iK9WB"
+        }
+      ],
+      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!"
+    },
+    {
+      "date": "2026-10-31",
+      "weekday": "sabado",
+      "slot": "story",
+      "items": [
+        {
+          "file": "9.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "weekday": "domingo",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (1).mp4",
+          "type": "video"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "week_start": "2026-11-16",
+  "status": "pending_approval",
+  "generated_at": "2026-11-03T00:26:31",
+  "posts": [
+    {
+      "date": "2026-11-16",
+      "weekday": "segunda",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (7).png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "weekday": "terca",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (3).png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "weekday": "quarta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "8a9963e6ae5a45018aee9bcd42742b1a.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "weekday": "quinta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "EC259521-F13C-4B33-A734-3DE7740EA168.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "weekday": "sexta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "8.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "weekday": "sexta",
+      "slot": "reel",
+      "items": [
+        {
+          "file": "Gm a ia vai roubar seu emprego.mp4",
+          "folder": "Jul 26",
+          "drive_folder_id": "1Z4339PcI27xugfyLvIo0Fbe_hG2iK9WB"
+        }
+      ],
+      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!"
+    },
+    {
+      "date": "2026-11-21",
+      "weekday": "sabado",
+      "slot": "story",
+      "items": [
+        {
+          "file": "34.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "weekday": "domingo",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (10).png",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}

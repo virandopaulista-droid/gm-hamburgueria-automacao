@@ -68,7 +68,10 @@
           "file": "8bf40ff6223f4dcab50af7d7c492af11.mov",
           "type": "video"
         }
-      ]
+      ],
+      "posted": true,
+      "posted_at": "2026-11-06T20:12:03",
+      "posting_error": "Falha parcial/total ao publicar -- verificar manualmente o que saiu de verdade. Erro: comando falhou (exit 1): ['bash', '/home/runner/work/gm-hamburgueria-automacao/gm-hamburgueria-automacao/scripts/post_story_video_fb.sh', '/home/runner/gdrive/Agência BEEF MTK/Clientes /GM - Hamburgueria /STORIES /Brenda - Stories /8bf40ff6223f4dcab50af7d7c492af11.mov']"
     },
     {
       "date": "2026-11-06",

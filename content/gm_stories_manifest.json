@@ -51,8 +51,8 @@
     {
       "file": "GM HAMBÚRGUERIA  ARTESANAL (9).png",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-11-25T21:30:03"
     },
     {
       "file": "GM HAMBÚRGUERIA  ARTESANAL (2).mp4",
@@ -176,8 +176,8 @@
     {
       "file": "65B25EF9-1A05-4EB8-9005-6108CDB50616.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-11-25T21:30:03"
     },
     {
       "file": "FE7FDF43-7015-4A9E-BB28-763C0FF1E03E.jpg",
@@ -401,8 +401,8 @@
     {
       "file": "5.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null,
+      "used": true,
+      "used_at": "2026-11-25T21:30:03",
       "locked_weekday": "sabado"
     },
     {
@@ -432,8 +432,8 @@
     {
       "file": "10.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-11-25T21:30:03"
     },
     {
       "file": "11.jpg",
@@ -469,8 +469,8 @@
     {
       "file": "16.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-11-25T21:30:03"
     },
     {
       "file": "17.jpg",
@@ -499,8 +499,8 @@
     {
       "file": "21.jpg",
       "type": "image",
-      "used": false,
-      "used_at": null
+      "used": true,
+      "used_at": "2026-11-25T21:30:03"
     },
     {
       "file": "22.jpg",
@@ -533,8 +533,8 @@
     {
       "file": "26.mp4",
       "type": "video",
-      "used": false,
-      "used_at": null,
+      "used": true,
+      "used_at": "2026-11-25T21:30:03",
       "locked_weekday": "sexta"
     },
     {

@@ -1,0 +1,112 @@
+{
+  "week_start": "2026-11-23",
+  "status": "pending_approval",
+  "generated_at": "2026-11-25T21:30:03",
+  "posts": [
+    {
+      "date": "2026-11-23",
+      "weekday": "segunda",
+      "slot": "story",
+      "items": [
+        {
+          "file": "21.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "weekday": "terca",
+      "slot": "story",
+      "items": [
+        {
+          "file": "65B25EF9-1A05-4EB8-9005-6108CDB50616.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "weekday": "quarta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (9).png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "weekday": "quinta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "16.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "weekday": "sexta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "26.mp4",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "weekday": "sexta",
+      "slot": "feed",
+      "items": [
+        {
+          "file": "IMG_5231.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        },
+        {
+          "file": "IMG_5153.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        },
+        {
+          "file": "IMG_5225.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        },
+        {
+          "file": "IMG_1499.HEIC",
+          "folder": "Ano 2026/Abril 26"
+        },
+        {
+          "file": "IMG_5211.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        }
+      ],
+      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!"
+    },
+    {
+      "date": "2026-11-28",
+      "weekday": "sabado",
+      "slot": "story",
+      "items": [
+        {
+          "file": "5.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "weekday": "domingo",
+      "slot": "story",
+      "items": [
+        {
+          "file": "10.jpg",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}

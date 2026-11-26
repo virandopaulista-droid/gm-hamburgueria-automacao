@@ -1,0 +1,112 @@
+{
+  "week_start": "2026-11-30",
+  "status": "pending_approval",
+  "generated_at": "2026-11-26T00:50:58",
+  "posts": [
+    {
+      "date": "2026-11-30",
+      "weekday": "segunda",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL 70.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "weekday": "terca",
+      "slot": "story",
+      "items": [
+        {
+          "file": "8E5D201A-02BC-4A33-A621-18092EDD9BB8.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "weekday": "quarta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "3.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "weekday": "quinta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "E1C2D4BF-F001-4815-B39F-AFC2603C7034.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "weekday": "sexta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (14).png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "weekday": "sexta",
+      "slot": "feed",
+      "items": [
+        {
+          "file": "IMG_1472.HEIC",
+          "folder": "Ano 2026/Abril 26"
+        },
+        {
+          "file": "IMG_1547.HEIC",
+          "folder": "Ano 2026/Abril 26"
+        },
+        {
+          "file": "IMG_8121.HEIC",
+          "folder": "Ano 2026/Julho 26"
+        },
+        {
+          "file": "IMG_8122.HEIC",
+          "folder": "Ano 2026/Julho 26"
+        },
+        {
+          "file": "IMG_5221.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        }
+      ],
+      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!"
+    },
+    {
+      "date": "2026-12-05",
+      "weekday": "sabado",
+      "slot": "story",
+      "items": [
+        {
+          "file": "4E5B9BE9-0D89-4199-B7A6-586037C805D4.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "weekday": "domingo",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (16).png",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}

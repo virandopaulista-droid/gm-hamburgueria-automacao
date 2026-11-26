@@ -1,0 +1,112 @@
+{
+  "week_start": "2026-12-07",
+  "status": "pending_approval",
+  "generated_at": "2026-11-26T00:52:25",
+  "posts": [
+    {
+      "date": "2026-12-07",
+      "weekday": "segunda",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "weekday": "terca",
+      "slot": "story",
+      "items": [
+        {
+          "file": "22.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "weekday": "quarta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "34.mp4",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "weekday": "quinta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "2.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "weekday": "sexta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "36.mp4",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "weekday": "sexta",
+      "slot": "feed",
+      "items": [
+        {
+          "file": "IMG_5209.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        },
+        {
+          "file": "IMG_5200.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        },
+        {
+          "file": "IMG_5222.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        },
+        {
+          "file": "IMG_8012.HEIC",
+          "folder": "Ano 2026/Julho 26"
+        },
+        {
+          "file": "IMG_8022.HEIC",
+          "folder": "Ano 2026/Julho 26"
+        }
+      ],
+      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!"
+    },
+    {
+      "date": "2026-12-12",
+      "weekday": "sabado",
+      "slot": "story",
+      "items": [
+        {
+          "file": "eb8eb22a1ebf4a4fbaffa79d2f27ee92.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-13",
+      "weekday": "domingo",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (2).mp4",
+          "type": "video"
+        }
+      ]
+    }
+  ]
+}

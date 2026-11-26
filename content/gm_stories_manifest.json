@@ -390,7 +390,9 @@
       "file": "3.jpg",
       "type": "image",
       "used": true,
-      "used_at": "2026-11-26T00:50:58"
+      "used_at": "2026-11-26T00:50:58",
+      "disabled": true,
+      "disabled_at": "2026-11-26T00:52:00"
     },
     {
       "file": "4.jpg",
@@ -547,8 +549,8 @@
     {
       "file": "28.mp4",
       "type": "video",
-      "used": false,
-      "used_at": null,
+      "used": true,
+      "used_at": "2026-11-26T00:52:00",
       "locked_weekday": "quarta"
     },
     {

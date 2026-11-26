@@ -1,0 +1,112 @@
+{
+  "week_start": "2026-12-14",
+  "status": "pending_approval",
+  "generated_at": "2026-11-26T00:52:57",
+  "posts": [
+    {
+      "date": "2026-12-14",
+      "weekday": "segunda",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (2).png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "weekday": "terca",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-16",
+      "weekday": "quarta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "GM HAMBÚRGUERIA  ARTESANAL (13).png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "weekday": "quinta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "10.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "weekday": "sexta",
+      "slot": "story",
+      "items": [
+        {
+          "file": "30.mp4",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "weekday": "sexta",
+      "slot": "feed",
+      "items": [
+        {
+          "file": "IMG_5227.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        },
+        {
+          "file": "IMG_8042.HEIC",
+          "folder": "Ano 2026/Julho 26"
+        },
+        {
+          "file": "IMG_5218.HEIC",
+          "folder": "Ano 2026/Janeiro"
+        },
+        {
+          "file": "IMG_8088.HEIC",
+          "folder": "Ano 2026/Julho 26"
+        },
+        {
+          "file": "IMG_1455.HEIC",
+          "folder": "Ano 2026/Abril 26"
+        }
+      ],
+      "caption_text": "Cada lanche com a sua personalidade! 🍔🔥 Dá uma olhada na variedade que a GM prepara pra você, sempre fresquinho, sempre com capricho. Qual desses é a sua cara?\n\n📍 GM Hamburgueria Artesanal\n⏰ Delivery: todos os dias, das 11h às 01h\n👉 Peça já o seu!"
+    },
+    {
+      "date": "2026-12-19",
+      "weekday": "sabado",
+      "slot": "story",
+      "items": [
+        {
+          "file": "71684f5b030641199f07ee5096b9ab0f.mov",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-20",
+      "weekday": "domingo",
+      "slot": "story",
+      "items": [
+        {
+          "file": "1.jpg",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}
